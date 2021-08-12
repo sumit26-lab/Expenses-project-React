@@ -1,4 +1,4 @@
-import Expenses from "./componed/Expenses";
+import Expenses from "./componed/Expenses/Expenses";
 
 
 function App() {

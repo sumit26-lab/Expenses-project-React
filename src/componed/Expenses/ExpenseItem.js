@@ -1,6 +1,6 @@
 import './ExpenseItem.css'
 import Expensedate from './ExpeneDate'
-import Card from './Card'
+import Card from '../Ui/Card'
 export default function ExpenseItem(Props){
     const{title,date,amount}=Props
    
